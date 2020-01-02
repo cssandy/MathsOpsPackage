@@ -1,3 +1,4 @@
 # MathsOpsPackage
 
-A description of this package.
+This package can be reused to perform mathmatical opeartions
+
